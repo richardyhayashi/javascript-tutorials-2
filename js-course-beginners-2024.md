@@ -15,7 +15,7 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 8. Objects
 9. Arrays
 10. Functions
-11.
+11. Summary of Variables
 12.
 13.
 14.
@@ -33,17 +33,21 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 
 #### Primitive Types
 
-* string
-* number
-* boolean
-* BigiInt
-* undefined
-* null
-* Symbol
+1. string
+2. number
+3. boolean
+4. null
+5. undefined
+6. BigiInt
+7. Symbol
 
 #### Reference Types
 
-* object
+8. object
+
+#### Data Structure
+
+* array
 
 #### typeof
 

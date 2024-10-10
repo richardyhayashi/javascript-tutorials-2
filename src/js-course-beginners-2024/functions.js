@@ -1,5 +1,7 @@
-function sayHi(name) {
- console.log(`Hi there ${name}!`);
+function multipy(num1, num2) {
+  const product = num1 * num2;
+  //return num1 * num2;
 }
 
-sayHi('Jane');
+
+console.log( multipy(2 ,2) );
