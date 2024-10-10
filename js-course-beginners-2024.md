@@ -11,10 +11,21 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 4. Variables
 5. Constants
 6. Primitive Types
-7.
+7. Dynamic Typing
 8.
 9.
 10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+
 
 ## Notes
 
