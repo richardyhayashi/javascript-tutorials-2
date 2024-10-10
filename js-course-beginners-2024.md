@@ -13,7 +13,7 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 6. Primitive Types
 7. Dynamic Typing
 8. Objects
-9.
+9. Arrays
 10.
 11.
 12.
