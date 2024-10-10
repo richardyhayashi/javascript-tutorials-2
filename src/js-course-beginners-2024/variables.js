@@ -1,8 +1,18 @@
-let firstName = "John";
-console.log(typeof firstName);
+let course = {
+  name: 'JavaScript for Beginners',
+  hours: 3
+};
+// console.log(course);
+// console.log(course.name);
 
-firstName = 100;
-console.log(typeof firstName);
+// course.name = 'JavaScript Fundamentals'
+// console.log(course.name);
 
-firstName = true;
-console.log(typeof firstName);
+console.log(course['name']);
+
+course['name'] = 'JavaScript 101';
+console.log(course['name']);
+
+let property = 'hours';
+
+console.log(course[property]);
