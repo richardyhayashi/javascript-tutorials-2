@@ -14,7 +14,7 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 7. Dynamic Typing
 8. Objects
 9. Arrays
-10.
+10. Functions
 11.
 12.
 13.
