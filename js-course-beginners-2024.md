@@ -8,10 +8,32 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 1. Introduction
 2. What is JavaScript?
 3. Setting up the Development Environment
-4.
-5.
-6.
+4. Variables
+5. Constants
+6. Primitive Types
 7.
 8.
 9.
 10.
+
+## Notes
+
+### Data Types
+
+#### Primitive Types
+
+* string
+* number
+* boolean
+* BigiInt
+* undefined
+* null
+* Symbol
+
+#### Reference Types
+
+* object
+
+#### typeof
+
+`typeof `
