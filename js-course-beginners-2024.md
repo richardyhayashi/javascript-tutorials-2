@@ -28,14 +28,24 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 20. Operator Precedence
 21. Summary of Operator
 22. If-Else Statements
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
+23. Switch-Case Statements
+24. For Loops
+25. While Loops
+26. Do-while Loops
+27. Infinite Loops
+28. For-in Loops
+29. For-of Loops
+30. Break and Continue
+31. Exercise: Max of two numbers
+32. Exercise: FizzBuzz
+33. Exercise: Even and Odd Numbers
+34. Summary of Control Flow
+35.
+36.
+37.
+38.
+39.
+40.
 
 
 ## Notes
@@ -133,3 +143,9 @@ result = condition ? true-value : false-value;
 4. (D)ivison
 5. (A)ddition
 6. (S)ubtraction
+
+#### Control Flow
+
+* if-ifthen-else
+* switch-case
+* for loop
