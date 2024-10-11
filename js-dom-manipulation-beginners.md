@@ -16,6 +16,15 @@ Source:
 9.
 10.
 
-Notes:
+## Notes:
 
 DOM - Document Object Model
+
+
+###
+
+.innerText    (visible text)
+.textContent  (all text)
+
+.remove
+.removeChild
