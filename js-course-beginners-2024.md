@@ -40,8 +40,8 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 32. Exercise: FizzBuzz
 33. Exercise: Even and Odd Numbers
 34. Summary of Control Flow
-35.
-36.
+35. Object Literals
+36. Factory Functions
 37.
 38.
 39.
