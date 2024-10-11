@@ -27,7 +27,7 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 19. Logical Operators with Non-booleans
 20. Operator Precedence
 21. Summary of Operator
-22.
+22. If-Else Statements
 23.
 24.
 25.
