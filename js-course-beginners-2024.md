@@ -42,10 +42,30 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 34. Summary of Control Flow
 35. Object Literals
 36. Factory Functions
-37.
-38.
-39.
-40.
+37. Constructor Functions
+38. Objects are Dynamic
+39. The Constructor Property
+40. Functions are Objects
+41. Value vs Reference types
+42. Enumerating Properties of an Object
+43. Cloning an Object
+44. Garbage Collection
+45. The Built in Math Function
+46. String Methods
+47. Template Literals
+48. The Date Object
+49. Summary of Objects
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
 
 
 ## Notes
@@ -149,3 +169,8 @@ result = condition ? true-value : false-value;
 * if-ifthen-else
 * switch-case
 * for loop
+
+#### Value vs Reference
+
+* Primitives are copied by value.
+* Object are copied by reference.
