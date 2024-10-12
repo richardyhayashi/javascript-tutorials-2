@@ -71,11 +71,16 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 63. Filtering an Array
 64. Mapping an Array
 65. Reducing an Array
-66.
-67.
-68.
-69
+66. Function Declarations vs Expressions        JavaScript Functions
+67. Hoisting
+68. Arguments
+69. The Rest Operator
 70.
+71.
+72.
+73.
+74.
+75.
 
 
 ## Notes
