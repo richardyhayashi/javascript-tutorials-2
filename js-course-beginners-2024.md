@@ -64,13 +64,13 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 56. Emptying an Array
 57. Combining and Slicing Arrays
 58. Spread Operator
-59.
-60.
-61.
-62.
-63.
-64.
-65.
+59. Iterating an Array
+60. Joining Arrays
+61. Sorting Arrays
+62. Testing the Elements of an Array
+63. Filtering an Array
+64. Mapping an Array
+65. Reducing an Array
 66.
 67.
 68.
