@@ -9,7 +9,7 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 1. Introduction
 2. What is JavaScript?
 3. Setting up the Development Environment
-4. Variables
+4. Variables                                    JavaScript Variables
 5. Constants
 6. Primitive Types
 7. Dynamic Typing
@@ -17,7 +17,7 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 9. Arrays
 10. Functions
 11. Summary of Variables
-12. Intro to Operators
+12. Intro to Operators                           JavaScript Operators
 13. Arithmetic Operators
 14. Assignment Operator
 15. Comparison Operators
@@ -27,7 +27,7 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 19. Logical Operators with Non-booleans
 20. Operator Precedence
 21. Summary of Operator
-22. If-Else Statements
+22. If-Else Statements                           Control Flow
 23. Switch-Case Statements
 24. For Loops
 25. While Loops
@@ -40,7 +40,7 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 32. Exercise: FizzBuzz
 33. Exercise: Even and Odd Numbers
 34. Summary of Control Flow
-35. Object Literals
+35. Object Literals                              JavaScript Objects
 36. Factory Functions
 37. Constructor Functions
 38. Objects are Dynamic
@@ -55,11 +55,11 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 47. Template Literals
 48. The Date Object
 49. Summary of Objects
-50.
-51.
-52.
-53.
-54.
+50. Introduction to Arrays                       JavaScript Arrays
+51. Adding Elements
+52. Finding Elements (Primitives)
+53. Finding Elements (Reference Types)
+54. Arrow Functions
 55.
 56.
 57.
@@ -174,3 +174,7 @@ result = condition ? true-value : false-value;
 
 * Primitives are copied by value.
 * Object are copied by reference.
+
+#### Array
+
+* Add .push()
