@@ -60,12 +60,22 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 52. Finding Elements (Primitives)
 53. Finding Elements (Reference Types)
 54. Arrow Functions
-55.
-56.
-57.
-58.
+55. Removing Elements
+56. Emptying an Array
+57. Combining and Slicing Arrays
+58. Spread Operator
 59.
 60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69
+70.
 
 
 ## Notes
