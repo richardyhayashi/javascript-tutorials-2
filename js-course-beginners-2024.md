@@ -75,12 +75,12 @@ Source: 'https://github.com/stevenGarciaDev/javascript-for-beginners-notes'
 67. Hoisting
 68. Arguments
 69. The Rest Operator
-70.
-71.
-72.
-73.
-74.
-75.
+70. Default Parameters
+71. Getters and Setters
+72. Try and Catch
+73. Local vs Global Scope
+74. Let vs Var
+75. The ‘this’ keyword
 
 
 ## Notes
@@ -193,3 +193,8 @@ result = condition ? true-value : false-value;
 #### Array
 
 * Add .push()
+
+#### Let vs Var
+
+* var function scoped
+* let 
